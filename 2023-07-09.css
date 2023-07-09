@@ -1,0 +1,26 @@
+/*.face {
+  color: darkblue;
+}
+
+.back {
+  color: darkblue;
+  opacity: .2;
+}*/
+
+body {
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+button {
+  padding: 5px 20px;
+  background-color: #337ab7;
+  border-style: none;
+  color: #fff;
+}
+input {
+  height: 25px;
+}
